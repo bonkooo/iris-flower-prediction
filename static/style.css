@@ -56,6 +56,13 @@ input[type="text"] {
     border-radius: 4px;
 }
 
+.button-container{
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 button {
     background-color: #333;
     color: #fff;
@@ -69,6 +76,7 @@ button {
 button:hover {
     background-color: #555;
 }
+
 
 /* result container styles */
 .result {
