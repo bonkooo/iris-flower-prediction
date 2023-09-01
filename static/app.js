@@ -9,4 +9,5 @@ clrbtn.addEventListener("click", function () {
     petalWidthInput.value = '';
     sepalLengthInput.value = '';
     sepalWidthInput.value = '';
+    result.textContent = '';
 });
