@@ -11,7 +11,7 @@ This project is a web application built using Flask that predicts the species of
 - **Web Interface**: A user-friendly web interface built using Flask.
 - **Training & Preprocessing Scripts**: Scripts to preprocess the data, train the model, and store the trained model for use in the Flask app.
 
-  <img src="iris.png" width="300" height="200" alt="The site">
+  <img src="iris.png" width="600" height="400" alt="The site">
 
 ## File Descriptions
 
